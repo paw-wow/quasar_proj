@@ -1,0 +1,52 @@
+.queriesText
+{
+	font-size: 26pt; 
+	font-weight: bold; 
+	color: black;
+}
+
+.queriesName
+{
+	font-size: 20pt; 
+	font-weight: bold; 
+}
+.callsText
+{
+	font-size: 32pt; 
+	font-weight: bold; 
+	color: black;
+}
+
+.callsNames
+{
+	font-size: 12pt;
+}
+
+
+.totalFont
+{
+	font-size: 20pt;
+}
+
+
+
+.border_queries
+{
+	border-bottom: thin solid;
+}
+
+
+.call_date
+{
+	max-height: 150px;
+	max-width: 150px;
+}
+
+.page-header,
+.page-footer 
+{
+    flex-shrink: 0;
+	padding-top: 20px;
+	min-width: 100%;
+}
+
